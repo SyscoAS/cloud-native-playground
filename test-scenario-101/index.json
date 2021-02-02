@@ -1,0 +1,24 @@
+{
+  "title": "Creating Your First Katacoda Scenario",
+  "description": "Learn how to create your first Katacoda scenario",
+  "details": {
+    "steps": [
+      {
+        "title": "Step 1 - Hello World",
+        "text": "step1.md"
+      }
+    ],
+    "intro": {
+      "text": "intro.md"
+    },
+    "finish": {
+      "text": "finish.md"
+    }
+  },
+  "environment": {
+    "uilayout": "terminal"
+  },
+  "backend": {
+    "imageid": "ubuntu:2004"
+  }
+}
