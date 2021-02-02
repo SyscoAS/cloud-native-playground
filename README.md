@@ -1,4 +1,3 @@
-# cloud-native-playground
-Cloud Native Playground
+# Sysco Cloud Native Playground
 
 https://katacoda.com/syscoas/scenarios/
