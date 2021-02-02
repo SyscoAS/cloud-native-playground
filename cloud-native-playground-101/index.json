@@ -1,10 +1,10 @@
 {
-  "title": "Creating Your First Katacoda Scenario",
-  "description": "Learn how to create your first Katacoda scenario",
+  "title": "Test Scenario",
+  "description": "Our First Cloud-Native Scenario",
   "details": {
     "steps": [
       {
-        "title": "Step 1 - Hello World",
+        "title": "Step 1 - Docker Hello World",
         "text": "step1.md"
       }
     ],
